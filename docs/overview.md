@@ -28,7 +28,7 @@ The following are known implementations of JSONata in addition to the primary im
 |Go|https://github.com/yxuco/gojsonata|Native implementation| |
 |Java|https://github.com/IBM/JSONata4Java|Native implementation| |
 |Java|https://github.com/dashjoin/jsonata-java|Native port of reference|2.0.5|
-|.NET|https://github.com/mikhail-barg/jsonata.net.native|Native implementation|1.8.5|
+|.NET|https://github.com/mikhail-barg/jsonata.net.native|Native implementation|2.1.0|
 |Python|https://github.com/qlyoung/pyjsonata|API bindings based on C bindings|1.8.3|
 |Python|https://github.com/rayokota/jsonata-python|Native port of reference|2.1.0|
 |Rust|https://github.com/johanventer/jsonata-rust|Implementation work in progress| |
